@@ -1,0 +1,19 @@
+{
+  "name": "ncode",
+  "version": "0.0.0",
+  "description": "\"sample app\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ssangireddy-nisum-com/nCode.git"
+  },
+  "author": "\"swathi sangireddy\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssangireddy-nisum-com/nCode/issues"
+  },
+  "homepage": "https://github.com/ssangireddy-nisum-com/nCode"
+}
